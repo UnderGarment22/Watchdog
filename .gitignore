@@ -8,6 +8,8 @@ yarn-error.log*
 # Other files to ignore
 auth.json
 guild.json
+package-lock.json
+package.json
 
 # Runtime data
 pids
